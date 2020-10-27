@@ -1,0 +1,20 @@
+{
+    "Author": "AvihaiH",
+    "ContentSize": 2213,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-pointtosite-on-existing-vnet/master/P2SWithExistingVNet.ps1",
+    "DownloadCount": 468,
+    "Id": "Create-Point-To-on-3e9b1167",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 419,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-7-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Create Point-To-Site on existing Azure VNET. Point-To-Site is an excellent solution when you want to connect to your VNet from anywhere.",
+    "Title": "Create Point-To-Site on Existing VNET",
+    "UpdatedDate": "2016-7-3T00:00:00",
+    "Url": "https://github.com/azureautomation/create-pointtosite-on-existing-vnet",
+    "UserTags": "Microsoft Azure, Powershell Script, Virtual Networks"
+}
